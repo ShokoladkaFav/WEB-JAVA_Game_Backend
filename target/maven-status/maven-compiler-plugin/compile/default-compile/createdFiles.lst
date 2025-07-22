@@ -1,0 +1,3 @@
+com\example\backend\BackendApplication.class
+com\example\backend\controllers\PlayerController.class
+com\example\backend\controllers\PlayerController$Player.class
